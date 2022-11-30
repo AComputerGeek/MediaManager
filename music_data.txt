@@ -1,0 +1,22 @@
+vr-SO-383|Abbey Road|The Beatles|1969|16|140|12
+af-100-34|O Canada|National Philharmonic|2001|O Canada.mp3|320
+cd-sd-19118-2|Deja Vu|CSNY&Y|1970|10
+vr-5810|Penny Lane|The Beatles|1967|2|40|7
+vr-071 483-5|Living In A Ghost Town|The Rolling Stones|2020|1|100|10
+af-1001|Happy Birthday|Trailer Park Boys|2001|Happy BirthDay.mp3|96
+af-123-89|Radar Love|Golden Earring|1973|Raday Love.flac|960
+vr-coc-59101|Goats Head Soup|The Rolling Stones|1973|10|180|12
+cd-06192-10623-2|Share The Land|The Guess Who|1970|8
+cd-88697 38376 2|Black Ice|ACDC|2008|15
+cd-74321 77927 2|American|The Guess Who|2000|10
+vr-3543227|Face Dances|The Who|2021|18|180|12
+vr-0214216|The Breadcrumbs EP|Alice Cooper|2019|3|100|10
+af-3012189|Winner Takes It All|Sammy Hagar|1978|Winner Takes It All.mp3|320
+af-7547-775|Blue Christmas|Porky Pig|1969|Blue Christmas.mp3|320
+af-11978-110|Hurt|Johnny Cash|2003|Hurt.mp3|320
+vr-B003106821|Home Tonight|Paul McCartney|2019|2|40|7
+vr-R 6054|Ebony And Ivory|Paul McCartney|1982|2|40|7
+vr-1865|Photograph|Ringo Starr|1973|2|40|7
+cd-R2-532629|Celebration Day|Led Zeppelin|2012|16
+cd-C2 07777 7 97039|1967-1970|The Beatles|1993|28
+cd-C2 07777 7 97036|1962-1966|The Beatles|1993|26
